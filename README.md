@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 📈 Real-Time Stock Market Dashboard
 
 Interactive dashboard for tracking real-time stock prices with technical indicators.
